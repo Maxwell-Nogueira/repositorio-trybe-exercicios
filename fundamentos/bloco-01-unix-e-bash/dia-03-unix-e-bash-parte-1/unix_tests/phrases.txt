@@ -1,0 +1,12 @@
+Bloco 1: Introdução - Unix & Shell
+
+Unix & Shell- Part 1
+Unix & Shell- Part 2
+
+fox
+
+Bloco 2: Git & GitHub
+
+O que são e para que serve?
+Entendendo os comandos
+Internet - Entendendo como ela funcional

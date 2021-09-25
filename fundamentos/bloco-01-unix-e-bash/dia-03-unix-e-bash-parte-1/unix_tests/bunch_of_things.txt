@@ -1,3 +1,7 @@
+
+
+
+
 Afghanistan
 Albania
 Algeria
@@ -21,6 +25,7 @@ Bhutan
 Bolivia
 Bosnia Herzegovina
 Botswana
+Brasil acima de tudo!
 Brazil
 Brunei
 Bulgaria
@@ -44,6 +49,7 @@ Cuba
 Cyprus
 Czech Republic
 Denmark
+Deus acima de todos!
 Djibouti
 Dominica
 Dominican Republic
@@ -51,6 +57,7 @@ East Timor
 Ecuador
 Egypt
 El Salvador
+E o cheiro das nuvens
 Equatorial Guinea
 Eritrea
 Estonia
@@ -75,6 +82,7 @@ Hungary
 Iceland
 India
 Indonesia
+Iram resistir!
 Iran
 Iraq
 Ireland {Republic}
@@ -137,14 +145,13 @@ Papua New Guinea
 Paraguay
 Peru
 Philippines
+Poderam sentir!
 Poland
 Portugal
 Qatar
 Romania
 Russian Federation
 Rwanda
-St Kitts & Nevis
-St Lucia
 Saint Vincent & the Grenadines
 Samoa
 San Marino
@@ -159,10 +166,13 @@ Slovakia
 Slovenia
 Solomon Islands
 Somalia
+Somente os bons
 South Africa
 South Sudan
 Spain
 Sri Lanka
+St Kitts & Nevis
+St Lucia
 Sudan
 Suriname
 Swaziland
@@ -194,4 +204,3 @@ Vietnam
 Yemen
 Zambia
 Zimbabwe
-

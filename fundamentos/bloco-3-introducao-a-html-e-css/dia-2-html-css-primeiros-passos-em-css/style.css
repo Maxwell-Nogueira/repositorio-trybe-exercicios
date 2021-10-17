@@ -1,0 +1,40 @@
+body {
+    font-size: 16px;
+   }
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+    font-style:oblique;
+    }
+
+ul {
+    background-color: palegoldenrod;
+    line-height: 3;
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+p{
+    font-weight: 600;
+    font-size: 3em;
+    font-style: italic;
+    text-align: center;
+
+    }
+
+.style{
+    background-color:mediumaquamarine;
+    }
+
+#Amarelo{
+  color: yellow;
+}    
+
+#Vermelho{
+  color:red;
+} 
+
+#Marrom{
+  color:maroon;
+} 

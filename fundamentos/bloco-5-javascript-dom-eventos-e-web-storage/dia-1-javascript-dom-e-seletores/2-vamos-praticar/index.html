@@ -58,7 +58,7 @@
           //exercicio 1 
           function changeTest() {
             let paragraph = document.getElementsByTagName('p')[1]
-            paragraph.innerText = 'Estar programando como um Jedi'
+            paragraph.innerHTML = 'Estar programando como um Jedi';
           }
           changeTest();
           //exercicio 2
@@ -67,6 +67,18 @@
             greenColor.style.background = "rgb(76,164,109)";
           }
           greenColor();
+          //exercicio 3
+          function whiteColor() {
+            let whiteColor = document.getElementsByClassName('center-content')[0];
+            whiteColor.style.background = 'white';
+          }
+          whiteColor();
+          //exercicio 4
+          function correctText() {
+            let correctText = document.getElementsByTagName('h1')[0];
+            correctText.innerText = 'Exercício 5.1 - JavaScript';
+          }
+          correctText();
 
     </script>
   </body>

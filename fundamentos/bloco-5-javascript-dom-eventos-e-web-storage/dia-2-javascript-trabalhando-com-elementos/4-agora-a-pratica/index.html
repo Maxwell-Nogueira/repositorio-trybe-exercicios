@@ -93,6 +93,15 @@
       elementSmallImage.src = 'https://picsum.photos/200';
       elementLeftContent.appendChild(elementSmallImage);
 
+      // exercicio 8 - Adicione uma lista não ordenada com os valores de 1 a 10 por extenso, ou seja, um , dois , três , ... como valores da lista. Essa lista deve ser filha do section criado no passo 6;
+      let listUl = document.createElement('ul');
+      elementRigthContent.appendChild(listUl);
+      let arrList = ['Um', 'Dois', 'Três', 'Quatro', 'Cinco', 'Seis', 'Sete', 'Oito', 'Nove', 'Dez'];
+      for (let key in arrList) {
+        let listLi = document.createElement('li');
+        listLi.innerHTML = arrList[key];
+        listUl.appendChild(listLi);
+      }
 
     </script>
   </body>

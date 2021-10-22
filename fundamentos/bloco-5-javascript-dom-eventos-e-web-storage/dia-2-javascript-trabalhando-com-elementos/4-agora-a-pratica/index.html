@@ -120,13 +120,18 @@
         description[index].className = 'description'
       }
 
-      //erecicio 3 parte 2 - Remova a section cirado no passo 5 (aquele que possui a classe left-content). Utilize a função .removeChild();
+      // erecicio 3 parte 2 - Remova a section cirado no passo 5 (aquele que possui a classe left-content). Utilize a função .removeChild();
       let classLeftContent = document.getElementsByClassName('left-content')[0];
       tagMain.removeChild(classLeftContent);
 
-      //exercicio 4 parte 2 - Centralize a section criado no passo 6 (aquele que possui a classe right-content ). Dica: para centralizar, basta configurar o margin-right: auto da section ;
+      // exercicio 4 parte 2 - Centralize a section criado no passo 6 (aquele que possui a classe right-content ). Dica: para centralizar, basta configurar o margin-right: auto da section ;
       let sectionRightContent = document.getElementsByClassName('right-content')[0];
       sectionRightContent.style.marginRight = 'auto';
+
+      // exercicio 5 parte 2 - Troque a cor de fundo do elemento pai da section criada no passo 3 (aquela que possui a classe center-content ) para a cor verde;
+      let backgroundCenterContent = document.getElementsByClassName('center-content')[0];
+      backgroundCenterContent.parentNode.style.backgroundColor = 'green';
+
 
     </script>
   </body>

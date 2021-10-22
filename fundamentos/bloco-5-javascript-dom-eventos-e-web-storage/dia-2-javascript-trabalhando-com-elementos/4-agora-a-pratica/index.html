@@ -57,13 +57,17 @@
   </head>
   <body>
     <script>
-      // exercico 1 - Adicione a tag h1 com o texto Exercício 5.2 - JavaScript DOM como filho da tag body ;
+      // exercicio 1 - Adicione a tag h1 com o texto Exercício 5.2 - JavaScript DOM como filho da tag body ;
 
       let textH1 = document.createElement('h1');    // primeiro vc cria o elemento / tag --> let = document.createElement('tag');
       textH1.innerText = 'Exercício 5.2 - JavaScript DOM';    // dps vc adiciona o texto no elemento h1 --> nomeDaVariavel.innerText = 'texto';
       document.body.appendChild(textH1);    //pds vc navega no dom começando pelo document. para o ponto que deseja inserir o nono elemento .body e em que grall deseja colocar o elemento .appendChild('nome da variavel');
 
+      // exercicio 2 - Adicione a tag main com a classe main-content como filho da tag body ;
 
+      let tagMain = document.createElement('main');
+      tagMain.className = 'main-content';
+      document.body.appendChild(tagMain);
 
 
     </script>
